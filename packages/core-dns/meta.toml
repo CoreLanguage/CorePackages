@@ -1,0 +1,7 @@
+[package]
+name = "core-dns"
+version = "0.1.0"
+description = "A stub DNS resolver for Core"
+source = "https://github.com/cnethuka/core-dns"
+tag = "v0.1.0"
+sha256 = "REPLACE_WITH_TARBALL_SHA256"
